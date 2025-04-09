@@ -1,4 +1,6 @@
 title: REAL RPG
-supportedLanguages: []
+supportedLanguages:
+  - ru
 style: black
 properties: []
+language: ru
